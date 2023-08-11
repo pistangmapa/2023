@@ -2,7 +2,7 @@
 title: Pista ng Mapa 2023
 description: "a free and open mapping conference in the Philippines"
 email: "pistangmapa@gmail.com"
-baseurl: "/"
+baseurl: "."
 logo: "/assets/img/logos/pnm-sq.png"
 nav-logo: "/assets/img/logos/pnm-nav-logo.png"
 favicon: favicon.ico
