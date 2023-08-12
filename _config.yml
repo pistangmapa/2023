@@ -24,7 +24,7 @@ exclude:
     - .gitignore
     - Gemfile
     - Gemfile.lock
-    - _posts/
+    - vendor/bundle/
 
 # build settings
 markdown: kramdown
