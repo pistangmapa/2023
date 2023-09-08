@@ -27,9 +27,9 @@ Read the <a href="{{ site.baseurl }}/conference/travel-guidelines">travel guidel
     {% include home_program.html %}
 </section> -->
 
-<!-- <section class="py-4 container-fluid bg-color-accent-2" id="cfp">
+<section class="py-4 container-fluid bg-color-accent-2" id="cfp">
     {% include home_cfp.html %}
-</section> -->
+</section>
 
 <!-- <section class="py-4 container-fluid bg-color-accent-2" id="registration">
     {% include home_reg.html %}
