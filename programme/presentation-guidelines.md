@@ -53,13 +53,13 @@ The General track includes all other presentations that are not part of the Acad
 
 There are two main presentation types:
 
-### Talk (25 minutes)
+### Talk (20 minutes)
 
-Classic talk/presentation with 20 minutes for the talk itself and 5 minutes for questions.
+Classic talk/presentation could either be general or academic talk with 20 minutes alloted time for the talk itself and to be followed by 15 minutes question and answer segment for every 2 speakers.
 
-### Lightning talk (5-10 minutes)
+### Lightning talk (5 minutes)
 
-Lightning talks are short talks/presentations that last between 5 to 10 minutes only. Several lightning talks under the same topic/theme will be grouped together as one session with 10 minutes for questions after the session.
+Lightning talks are short talks/presentations that last 5 minutes only. Three lightning talks under the same topic/theme will be grouped together as one session with 10 minutes for questions after the session.
 
 ### Workshops (1hr, 2hr, 4hr)
 
