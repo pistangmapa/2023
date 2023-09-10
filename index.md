@@ -19,6 +19,22 @@ Read the <a href="{{ site.baseurl }}/conference/travel-guidelines">travel guidel
 </div>
 </section> -->
 
+<!-- <section class="py-4 container-fluid">
+    <!-- breaker 
+</section> -->
+
+<section class="py-4 container-fluid bg-color-accent-2" id="registration">
+    {% include home_reg.html %}
+</section>
+
+<!-- <section class="py-4 container-fluid">
+    <!-- breaker
+</section> -->
+
+<section class="py-4 container-fluid bg-color-accent-2" id="cfp">
+    {% include home_cfp.html %}
+</section>
+
 <section class="py-4 container-fluid" id="about">
     {% include about.html %}
 </section>
@@ -26,15 +42,6 @@ Read the <a href="{{ site.baseurl }}/conference/travel-guidelines">travel guidel
 <!-- <section class="py-4 container-fluid bg-color-accent-2" id="program">
     {% include home_program.html %}
 </section> -->
-
-<section class="py-4 container-fluid bg-color-accent-2" id="cfp">
-    {% include home_cfp.html %}
-</section>
-
-<!-- <section class="py-4 container-fluid bg-color-accent-2" id="registration">
-    {% include home_reg.html %}
-</section> -->
-
 
 <!-- <section class="py-4 container-fluid bg-color-accent-2" id="volunteers">
     {% include home_cfv.html %}
