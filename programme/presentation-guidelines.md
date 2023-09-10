@@ -55,7 +55,7 @@ There are two main presentation types:
 
 ### Talk (20 minutes)
 
-Classic talk/presentation could either be general or academic talk with 20 minutes alloted time for the talk itself and to be followed by 15 minutes question and answer segment for every 2 speakers.
+Classic talk/presentation could either be general or academic talk with 20 minutes allotted time for the talk itself and to be followed by 15 minutes question and answer segment for every 2 speakers.
 
 ### Lightning talk (5 minutes)
 
