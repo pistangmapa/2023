@@ -91,9 +91,9 @@ Kindly inform us if you do not wish for your presentations to be published or st
 
 |---------------------------------------|----------:|
 | **Opening of submissions**            |     September 8, 2023     |
-| **Deadline of submissions**           |     October 7, 2023    |
-| **Community vote**                    |     October 8-14, 2023    |
-| **Announcement of accepted presentations** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |     October 16, 2023    |
+| **Deadline of submissions**           |     October 14, 2023    |
+| **Community vote**                    |     October 15-20, 2023    |
+| **Announcement of accepted presentations** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |     October 21, 2023    |
 |   |   |
 
 ## Submission
