@@ -96,5 +96,5 @@ Kindly inform us if you do not wish for your presentations to be published or st
 | **Announcement of accepted presentations** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |     October 21, 2023    |
 |   |   |
 
-## Submission
-{% include submit_cfp.html %}
+<!-- ## Submission
+{% include submit_cfp.html %} -->
