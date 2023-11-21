@@ -6,10 +6,11 @@ body {
     line-height: 1.7;
     //background: url("../img/site/background.jpg") no-repeat center center fixed;
     // background: url("../img/site/background.jpg");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background-image: url("../img/contours/1.png"), url("../img/contours/2.png"), url("../img/contours/3.png"), url("../img/contours/4.png");
+    background-position: right bottom, left bottom, top left, top right;
+    background-attachment: fixed, fixed, fixed, fixed;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-size: auto 50%, auto 50%, auto 50%, auto 50%;
 
     strong, b {
         font-weight: bold;
@@ -255,3 +256,7 @@ strong, b {
         color: $color-primary-1;
     }
 }
+
+.centered-heading {
+    text-align: center;
+  }

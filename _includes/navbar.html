@@ -10,9 +10,9 @@
             </button>
             <div class="collapse navbar-collapse" id="main-navbar">
                 <ul class="navbar-nav ml-auto">
-                    <li>
+                    <!-- <li>
                         <a class="nav-link btn-hover" href="{{ site.baseurl }}">home</a>
-                    </li>
+                    </li> -->
                     <li>
                         <a class="nav-link btn-hover" href="{{ site.baseurl }}/conference/loc">organizers</a>
                     </li>
@@ -35,6 +35,15 @@
                     <!-- <li>
                         <a class="nav-link btn-hover" href="{{ site.baseurl }}/#sponsors">sponsor</a>
                     </li> -->
+                    <li class="nav-item dropdown btn-hover">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/#">presentations</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="{{ site.baseurl }}/presentations/presentation_video_list#plenary_anchor">plenary</a>
+                            <a class="dropdown-item" href="{{ site.baseurl }}/presentations/presentation_video_list#academic_anchor">academic track</a>
+                            <a class="dropdown-item" href="{{ site.baseurl }}/presentations/presentation_video_list#general_anchor">general track</a>
+                            <a class="dropdown-item" href="{{ site.baseurl }}/presentations/presentation_video_list#lightning_anchor">lightning talks</a>
+                        </div>
+                    </li>
                     <li class="nav-item dropdown btn-hover">
                         <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/#">conference</a>
                         <div class="dropdown-menu">

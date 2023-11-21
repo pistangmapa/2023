@@ -4,6 +4,12 @@ layout: home
 <section class="py-2 container-fluid" id="header">
     {% include home_slider.html %}
 </section>
+<section class="py-2 container-fluid" id="programme-sched">
+    {% include sched/schedule.html %}
+</section>
+<!-- <section class="py-2 container-fluid" id="promo-vid">
+    {% include promotional_vid.html %}
+</section> -->
 <!-- <section class="py-2 container-fluid" id="header">
 <div class="display-2 pb-2 pt-1 text-center" style="font-family: Bantayog"><strong class="color-primary-4">Pista ng Mapa is Back!</strong></div>
 <div class="container display-4 text-center pb-2" id="demo"></div>
